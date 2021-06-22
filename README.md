@@ -2,10 +2,7 @@
 
 * Tic Tac Toe game is for two players, who takes turns marking the spaces in a 3×3 grid. 
 * The player who succeeded in placing three respective marks in horizontal, vertical or diagonal row wins.
-
-* Features:
-  ✓ Multiplayer mode
-  ✓ 2 difficulty levels
+* The player can either choose to play against computer or player2.
   
   
 </br>
